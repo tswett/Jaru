@@ -1,3 +1,6 @@
+package net.warrigal.jaru
+
+import net.warrigal.jaru.tenst.{TensT, VectT}
 
 
 /**

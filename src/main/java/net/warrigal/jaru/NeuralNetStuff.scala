@@ -1,4 +1,7 @@
-import TensImplicits._
+package net.warrigal.jaru
+
+import net.warrigal.jaru.tenst.TensImplicits._
+import net.warrigal.jaru.tenst._
 import org.nd4s.Implicits._
 
 /**

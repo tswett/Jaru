@@ -1,3 +1,5 @@
+package net.warrigal.jaru.tenst
+
 /**
   * Created by Tanner on 1/15/2017.
   */

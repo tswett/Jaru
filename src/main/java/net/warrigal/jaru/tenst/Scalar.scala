@@ -1,10 +1,12 @@
+package net.warrigal.jaru.tenst
+
 import org.nd4j.linalg.api.ndarray.INDArray
 import org.nd4s.Implicits._
 
 /**
   * Created by Tanner on 1/15/2017.
   */
-class Scalar(val value: Float)
+case class Scalar(value: Float)
 
 object Scalar {
 
